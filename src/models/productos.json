@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "playstation 5",
+    "description": "consola gaming",
+    "price": "90000",
+    "status": true,
+    "category": "consolas",
+    "code": "ps424",
+    "stock": "150",
+    "thumbnails": []
+  }
+]
